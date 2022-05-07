@@ -11,7 +11,7 @@ import { async } from "@firebase/util";
 initializeApp(firebaseConfig);
 
 const test = async () => {
-    //await login("gabniparth78@gmail.com", "parth123");
+    await login("gabniparth78@gmail.com", "parth123");
     await getUserData();
 };
 
