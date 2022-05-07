@@ -1,0 +1,6 @@
+/* Header title */
+.main-title{
+      text-align: center;
+      font-size: 3rem;
+      padding: var(--spacing-m);
+}
